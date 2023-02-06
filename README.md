@@ -1,2 +1,2 @@
 # git_pluralsight
-learning git using plural sight
+learning git using plural sight :)
