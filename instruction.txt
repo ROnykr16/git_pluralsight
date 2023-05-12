@@ -1,8 +1,2 @@
 This is just a demo trying to check the features of github
-<<<<<<< HEAD
-Ankit Ghosh
-=======
-Plural Sight
->>>>>>> 8a06d900f2356713394cbf7a35cad0b91dc19935
-I am making some changes here lets cc if this reflects
-I am checking if i can revert the pull request.......
+I am making a new statement will be seeing if we can reflect this or not
