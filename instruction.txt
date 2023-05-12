@@ -1,8 +1,2 @@
 This is just a demo trying to check the features of github
-<<<<<<< HEAD
-Ankit Ghosh
-=======
-Plural Sight
->>>>>>> 8a06d900f2356713394cbf7a35cad0b91dc19935
-<<<<<<< HEAD
-I am making some changes here lets cc if this reflects.I am making the change in local
+I am making a new statement will be seeing if we can reflect this or not
