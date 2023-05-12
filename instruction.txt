@@ -6,3 +6,4 @@ Plural Sight
 >>>>>>> 8a06d900f2356713394cbf7a35cad0b91dc19935
 <<<<<<< HEAD
 I am making some changes here lets cc if this reflects.I am making the change in local
+I am checking if i can revert the pull request
